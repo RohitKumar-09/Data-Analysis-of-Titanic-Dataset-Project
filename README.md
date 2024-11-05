@@ -3,7 +3,7 @@ Data Analysis Project on Titanic Dataset using Python
 
 All good data analysis projects begin with trying to answer questions. Now that we know what column category data we have
 let's think of some questions or insights we would like to obtain from the data.
-So here's a list of questions we'll try to answer using our new data analysis skills!
+So here's a list of questions I will try to answer using my new data analysis skills!
 
 First some basic questions:
 
